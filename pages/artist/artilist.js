@@ -4,7 +4,8 @@ const artilist = () => {
   return (
     <div className={styles.w3container}>
     <h2>Let me introduce My favorite K-pop artists!</h2>
-  
+    <p>I have been interested in K-pop since I was young and liked K-pop artists.
+    Among the many artists, the artists I selected are BTS, TWICE, PSY, BLACKPINK, and IU, which are Korea's representative artists who promote K-pop around the world and create the Korean Wave.</p>
     <div className={styles.w3card4} style={{width:100}}>
       <img src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/EOKA7NCX6REIHICYCTR53H2ORA.png" alt="Alps" style={{width:500}}/>
       <p>BTS</p>

@@ -4,7 +4,7 @@ const samplealbum = () => {
   return (
     <div className={styles.w3container}>
     <h2>Sample Album</h2>
-  
+    <p>When artists release a new album, each agency puts an album jacket designed for each album concept and releases it. The jacket I am introducing now is a sample album jacket. These jackets can serve as a visual representation of the artist's color depending on how they design.</p>
     <div className={styles.w3card4} style={{width:100}}>
       <img src="https://hiphopplaya.com/g2/data/cheditor5/1903/view_thumbnail/mania-done-20190327110952_swrmqawt.jpg" alt="Alps" style={{width:500}}/>
       <p>Sample jacket1</p>
