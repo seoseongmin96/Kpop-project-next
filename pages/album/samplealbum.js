@@ -20,4 +20,4 @@ const samplealbum = () => {
   )
 }
 
-export default samplealbum
+export default samplealbum  
